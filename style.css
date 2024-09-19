@@ -1,0 +1,19 @@
+a{
+  text-decoration: none;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 14px;
+}
+
+.titulo{
+  text-align: center;
+}
+
+.colorbox{
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.lista{
+  text-align: center;
+}
